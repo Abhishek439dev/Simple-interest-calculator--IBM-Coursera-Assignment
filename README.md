@@ -1,5 +1,5 @@
 # Simple Interest Calculator
-This repository is about the Simple Interest Calculator assignment given by Coursera in the course (Introduction to Web Development with HTML, CSS, JavaScript) offered by IBM.
+This repository is about the Simple Interest Calculator assignment given by Coursera in the course (Getting started with Git and GitHub) offered by IBM.
 
 This course is about web development which includes :
 1. Programming for the cloud.
@@ -21,5 +21,3 @@ It is very simple and beginner friendly course and very good course for those wh
 I will recommend this to beginners who want to learn web development.
 
 ----
-### You can connect me on :
-LinkedIn : https://www.linkedin.com/in/dhawal-vijayvargiya-188683214
