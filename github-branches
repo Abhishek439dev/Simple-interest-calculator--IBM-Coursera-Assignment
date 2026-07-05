@@ -1,0 +1,5 @@
+$ git branch -a -v
+* main                7b3a1c2 [origin/main] Fix crucial typos in documentation
+  bug-fix-typo        f9e4d8a [origin/bug-fix-typo: gone] Merge branch main into bug-fix-typo
+  bug-fix-revert      e2a1b4c [origin/bug-fix-revert] Revert erroneous bug fix patch
+  remotes/origin/main 7b3a1c2 Fix crucial typos in documentation
