@@ -1,4 +1,6 @@
-# Simple Interest Calculator
+# github-final-project
+
+## Simple Interest Calculator
 This repository is about the Simple Interest Calculator assignment given by Coursera in the course (Getting started with Git and GitHub) offered by IBM.
 
 This course is about web development which includes :
